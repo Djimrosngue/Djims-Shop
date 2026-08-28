@@ -286,8 +286,6 @@ Les endpoints exacts dépendent de la configuration actuelle du projet.
 
 # 🔐 Sécurité
 
-Les informations sensibles ne doivent pas être publiées sur GitHub.
-
 Le projet utilise un fichier `.env` pour les variables sensibles.
 
 Exemple :
@@ -298,13 +296,6 @@ Exemple :
 
 est exclu du dépôt grâce au `.gitignore`.
 
-Un fichier :
-
-```text
-.env.example
-```
-
-peut être fourni pour indiquer aux développeurs quelles variables doivent être configurées.
 
 ---
 
@@ -392,8 +383,7 @@ Les commandes peuvent varier selon la configuration du projet.
 ---
 
 # 📸 Screenshots
-
-Ajouter ici les captures d'écran de l'application :
+Voici les captures d'écran de l'application :
 
 ```text
 docs/
