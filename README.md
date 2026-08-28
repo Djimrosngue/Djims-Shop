@@ -380,23 +380,7 @@ npm test
 
 Les commandes peuvent varier selon la configuration du projet.
 
----
 
-# 📸 Screenshots
-Voici les captures d'écran de l'application :
-
-```text
-docs/
-└── screenshots/
-    ├── home.png
-    ├── products.png
-    ├── product-details.png
-    ├── cart.png
-    ├── checkout.png
-    └── dashboard.png
-```
-
----
 
 # 🤝 Contribution
 
